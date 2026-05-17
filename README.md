@@ -2,7 +2,7 @@
 
 This repository contains the Python analysis code used for the manuscript:
 
-Comparative performance of Cox proportional hazards and alternative survival models for 10-year ASCVD prediction in an Emirati cohort.
+10-year atherosclerotic cardiovascular disease prediction in an Emirati cohort: Cox proportional hazards regression versus alternative survival models.
 
 Files:
 - primary_analysis.py: runs the main analysis, including model fitting, repeated internal validation, multiple imputation, performance metrics, calibration plots, SHAP outputs, and tables.
